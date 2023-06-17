@@ -1,13 +1,13 @@
-#include <stdio.h>
+#include <unistd.h>
 /**
- * 
- * main - prints a statement
+ * main - Entry point
  *
- * Return: returns exactly 0
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
-	const char message[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-	write(1, message, sizeof(message) - 1);
-	return (0);
+	char str1[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+
+	write(2, str1, 59);
+	return (1);
 }
