@@ -1,8 +1,6 @@
 #include <stdio.h>
 /*
- * main - Entry point
- *
- * Return: Always 0 (success)
+ *Prints the sentence with no errors
  */
 int main(void)
 {
