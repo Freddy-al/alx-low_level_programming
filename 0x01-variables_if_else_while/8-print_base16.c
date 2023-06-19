@@ -9,11 +9,12 @@ int main(void)
 {
 	int m;
 
+	char c = 'a';
+
 	for (m = 0; m < 10; m++)
 	{
 		putchar(m + '0');
 	}
-	char c = 'a';
 	while (c <= 'f')
 	{
 		putchar(c);
