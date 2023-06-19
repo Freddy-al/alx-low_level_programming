@@ -17,4 +17,6 @@ Task 7: 7-print_tebahpla.c: prints alphabets in reverse.
 
 Task 8: 8-print_base16.c:  prints all the numbers of base 16 in lowercase, followed by a new line.
 
-Task 9.    
+Task 9. 9-print_comb.c:  prints all possible combinations of single-digit numbers.
+
+Task 10.    
