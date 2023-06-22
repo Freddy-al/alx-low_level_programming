@@ -10,5 +10,8 @@ int_abs(int n)
 	{
 		return(n);
 	}
-	return(-n);
+	else
+	{
+		return (n * -1);
+	}
 }
