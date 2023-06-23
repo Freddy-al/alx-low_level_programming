@@ -1,4 +1,4 @@
-This is a readme file for 0x04. C - More functions, more nested loops
+###More functions, more nested loops
 
 Task 0. a function that checks for uppercase character.
 	This returns 1 if c is uppercase
